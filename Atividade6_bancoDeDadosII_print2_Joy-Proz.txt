@@ -1,0 +1,76 @@
+Saiba como melhorar a segurança de dados com estas 8 práticas
+
+Assim como a tecnologia, as políticas de segurança de dados e as medidas preventivas devem ser eficazes no que diz respeito à proteção de arquivos sensíveis ou exposição de informações confidenciais dos clientes de uma empresa.
+
+Mesmo com as práticas comuns de proteção como o uso de antivírus e a conscientização da equipe acerca dos perigos de anexos em e-mails suspeitos, existem outras ações de segurança de TI que precisam ser utilizadas pelas organizações 
+que desejam proteger seus dados confidenciais.
+
+A seguir os 8 passos:
+
+1. Utilize senhas seguras
+Mude suas senhas com frequência, de no mínimo, uma vez por mês. Utilize senhas mais fortes, com letras maiúsculas e minúsculas, números e se possível, símbolos.
+
+Dificultar o acesso também pode tornar difícil lembrar dessas senhas, por isso, faça um backup constante em nuvem de um documento que contenha todas elas anotadas. Use também senhas diferentes para contas diferentes.
+
+2. Seja desconfiado
+Monitore suas redes sociais: antes de postar qualquer informação pergunte-se se elas podem ser usadas por um criminoso, ou como moeda de troca em sequestros de informação.
+
+Preocupe-se também com a utilização das mesmas pelos colaboradores e se possível, bloqueie o acesso a essas páginas: além de garantir mais segurança às informações, você diminui os índices de ociosidade da equipe.
+
+Antes de liberar o acesso da empresa às pessoas desconhecidas verifique se prestadores de serviço são confiáveis. Certifique-se de saber quem os chamou, verifique suas credenciais e limite o acesso apenas a suas áreas de trabalho.
+
+3. Planeje sua gestão de riscos
+Tenha um plano atualizado de segurança e siga-o. Não espere que alguma invasão aconteça para efetivar seu mapeamento de vulnerabilidades: todas as interações com o sistema, a configuração inicial e o registro de usuários, 
+devem ser conduzidas com base nesses procedimentos.
+
+Realizar periodicamente uma auditoria também pode ser benéfico para sua segurança de TI. Para isso, contrate uma empresa profissional.
+
+É importante também monitorar a rotina do seu negócio: retire todas as senhas visíveis do escritório, verifique se na vizinhança alguém pode ter uma visão clara dos monitores do seus computadores, entre outras ações preventivas.
+
+4. Promova o treinamento da sua equipe
+Ensine boas práticas. Seu plano de segurança deve ser confidencial, mas isso não significa que você tenha que manter segredo com sua equipe. É necessário incorporar rotinas de segurança nos programa de treinamento de funcionários.
+
+Demonstre que a segurança em TI também significa segurança no trabalho. Índices de acidentes digitais rebaixam os níveis de confiabilidade de toda a empresa.
+
+Por isso, priorize a consciência da segurança e responsabilidade em seu ambiente organizacional: a segurança da informação para as empresas deve ser visível em toda a organização.
+
+Deixe claro que a segurança é o trabalho de todos e se possível, inclua pontos referentes a precaução na avaliação de desempenho de cada colaborador.
+
+5. Criptografe os dados armazenados na nuvem
+A criptografia protege seus dados, seja armazenada em um data center ou transmitida pela internet. Essas ações são mais eficazes quando onipresentes e integradas ao fluxo de trabalho e devem ser automáticas ao compartilhar arquivos 
+por meio de cloud computing.
+
+Procure soluções em nuvem que ofereçam criptografia em bloco e atendam aos padrões de conformidade de segurança para proteção dos dados confidenciais.
+
+6. Gerencie permissões de acesso
+A perda de dados é muitas vezes resultado do erro humano. É imprescindível definir hierarquicamente o acesso aos dados de clientes, documentos confidenciais, gráficos de análise de resultados, de faturamento, entre outros.
+
+Altere as permissões de acordo com a rotina de trabalho do colaborador e assegure-se de deixar que a equipe realize rotinas de trabalho fora da nuvem da empresa ou software local.
+
+7. Proteja os dados em todas as aplicações e dispositivos móveis
+Laptops e dispositivos móveis equipados com aplicativos em nuvem promovem a mobilidade e facilitam o acesso a arquivos de qualquer lugar.
+
+No entanto, o compartilhamento de arquivos fora do seu firewall representa vulnerabilidade às suas informações, por isso é preciso se certificar de estabelecer políticas de compartilhamento também para o home office.
+
+Você pode adotar assim, um sistema de proteção de dados que ofereça segurança a aplicativos móveis, Android ou iOS. Serviços como Dropbox ou Office 365 também podem ser assegurados. Além disso, obtenha proteção contra 
+spam e vírus em todas as máquinas e dispositivos utilizados na empresa.
+
+Também pode ser interessante proteger seus dados com o descarte adequado de equipamentos obsoletos. Destrua discos rígidos não utilizados, hardwares HDs e outros equipamentos de maneira correta, por meio de serviços profissionais.
+
+8. Tenha um plano contingencial
+Uma vez que as senhas, documentos e aplicativos em nuvem estão protegidos, planeje também uma estratégia de contingência caso ocorra uma violação de segurança na sua empresa.
+
+A empresa precisa definir os recursos de informação existentes e como eles serão gerenciados:
+
+os principais pontos de contato na ocorrência de violação;
+o plano de comunicação aos clientes de forma a minimizar os efeitos de processos jurídicos;
+se estão disponíveis recursos financeiros, técnicos ou de backups suficientes para remediar a situação.
+Como toda forma de gerenciamento, é preciso planejar também a segurança de dados: essa ação indica o nível de comprometimento da organização com a privacidade dos clientes e com a confidencialidade.
+
+Por isso não deve ser um projeto com datas de início e fim. Para tal, racionalize uma política eficiente de segurança, comunique-a a todos os interessados, revise-a e teste-a de forma consistente para garantir que toda a sua organização acompanhe as ameaças emergentes de forma preventiva, e não corretiva.
+
+Nesse sentido é imprescindível atualizar planos, medidas e equipamentos constantemente: novos malwares e formas de ataques surgem com grande frequência e por isso, é preciso adequar-se as mais recentes formas de segurança digital.
+
+Identificar fraquezas e ameaças é a chave para proteger a sua empresa contra vazamentos de dados, portanto, assegure-se de manter toda a sua organização atualizada sobre novas tecnologias e vulnerabilidades.
+
+Gostou dessas informações? Assine agora nossa newsletter e receba em seu e-mail as novidades a respeito da segurança de dados para sua empresa!
